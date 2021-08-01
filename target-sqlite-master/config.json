@@ -1,0 +1,5 @@
+{
+  "database": "sunrise_sunset",
+  "batch_size": 1000,
+  "timestamp_column": "timestamp"
+}

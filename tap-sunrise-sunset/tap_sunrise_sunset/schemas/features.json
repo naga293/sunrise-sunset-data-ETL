@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "properties": {
+        "date": {
+            "type": "string"
+        },
+        "sunriseStart": {
+            "type": "string"
+        },
+        "sunriseEnd": {
+            "type": "string"
+        },
+        "sunsetStart": {
+            "type": "string"
+        },
+        "sunsetEnd": {
+            "type": "string"
+        }
+    }
+}
